@@ -1,2 +1,3 @@
 # HUMANOID
 Humanoid is a machine which is used in our daily life purposes...
+Test repo for humanoid 
